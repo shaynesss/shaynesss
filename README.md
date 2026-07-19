@@ -1,7 +1,5 @@
 I'm a Data Science student who builds real projects on the side. Not just AI systems on their own, but builds that incorporate them into something that actually works end to end. Making that reliable is one of the hardest unsolved problems in software right now, and most people building with AI skip straight past it. I build the whole stack, front to back, so what a client or end user actually touches is backed by something real, not propped up behind the scenes.
 
-### Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,8 +24,6 @@ I'm a Data Science student who builds real projects on the side. Not just AI sys
   <a href="https://www.linkedin.com/in/shayne-yong-888388263/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://frontend-eight-pi-44xatf0ts0.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
-
-### Contributions
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaynesss&bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
