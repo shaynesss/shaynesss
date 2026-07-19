@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/shayness">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=420&text=Shayne" alt="Shayne" />
-  </a>
-</p>
-
-
 I'm a Data Science student who builds real projects on the side. Not just AI systems on their own, but builds that incorporate them into something that actually works end to end. Making that reliable is one of the hardest unsolved problems in software right now, and most people building with AI skip straight past it. I build the whole stack, front to back, so what a client or end user actually touches is backed by something real, not propped up behind the scenes.
 
 ### Tech Stack
@@ -37,9 +30,8 @@ I'm a Data Science student who builds real projects on the side. Not just AI sys
 ### Contributions
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shayness&bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaynesss&bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/shayness">shayness</a></i></p>
-
+<p align="center"><i>⭐️ From <a href="https://github.com/shaynesss">shaynesss</a></i></p>
