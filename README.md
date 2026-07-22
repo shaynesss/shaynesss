@@ -24,5 +24,4 @@ I'm a Data Science student who builds real projects on the side. Not just AI sys
   <a href="https://www.linkedin.com/in/shayne-yong-888388263/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://frontend-eight-pi-44xatf0ts0.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
----
 <p align="center"><i>⭐️ From <a href="https://github.com/shaynesss">shaynesss</a></i></p>
