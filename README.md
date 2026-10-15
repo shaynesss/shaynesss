@@ -1,4 +1,4 @@
-I'm a Data Science student who builds real, deployed systems not AI running in isolation, but AI integrated into products that work end to end. That reliability gap is where most AI-driven builds quietly fall apart, and it's the problem I care about solving. I own the whole stack, front to back, so what a user or client actually touches is backed by something real, not propped up behind the scenes. Looking for opportunities where data and AI systems directly shape a product, not sit beside it.
+Data Science student who builds full-stack AI systems and designs the products around them, end to end. Interested in what keeps systems reliable as conditions change.
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
